@@ -9,6 +9,8 @@ FastF1 gives access to F1 car telemetry and position, tyre data, weather data, t
 
 Currently only season 2023 and 2024 are available. The FastF1 API is not being able to load some years session (error: failed session.load)
 
+
+NOTE:- The app uses free Heroku Resources resulting in slow processing.
 Try the app here ---> [App Link](https://f1-lap-time-analysis-d0bf6fc98114.herokuapp.com/)
 
 <p align="left">
