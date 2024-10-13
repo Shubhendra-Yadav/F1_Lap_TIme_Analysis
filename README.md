@@ -7,6 +7,8 @@ An app to compare the lap times of different drivers in a race. The app allows t
 It gives the freedom of selecting the drivers that are in the order of race result as well for comparing their lap times. All this is possible by collecting data from the FastF1 API.
 FastF1 gives access to F1 car telemetry and position, tyre data, weather data, the event schedule and session results.
 
+Currently only season 2023 and 2024 are available. The FastF1 API is not being able to load some years session (error: failed session.load)
+
 Try the app here ---> [App Link](https://f1-lap-time-analysis-d0bf6fc98114.herokuapp.com/)
 
 <p align="left">
